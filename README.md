@@ -22,7 +22,7 @@ Include this badge in your readme if you make a module that is compatible with t
 
 ![](https://raw.githubusercontent.com/diasdavid/interface-record-store/master/img/badge.png)
 
-# How to use the battery of tests
+# How to use the battery of tests (both are deprecated) <!--TODO: explain why here and/or in the repos; what have they been replaced by?-->
 
 ## Node.js
 
