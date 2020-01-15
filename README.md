@@ -1,5 +1,7 @@
-interface-record-store
-=====================
+⛔️ DEPRECATED: interface-record-store is now included in [ipfs/interface-datastore](https://github.com/ipfs/interface-datastore)
+======
+
+# interface-record-store
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://protocol.ai)
 [![](https://img.shields.io/badge/project-libp2p-yellow.svg?style=flat-square)](http://libp2p.io/)
